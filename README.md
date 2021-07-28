@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @andykoc
+- 👀 I’m interested in cybersecurity, but I am open to any field of computer science.
+- 🌱 I’m currently learning cybersecurity at Penn State.
+- 💞️ I’m looking to collaborate on mainly cybersecurity projects, but I'm also open to any other projects as well.
+- 📫 How to reach me 
+   -    Email: andykochhar@gmail.com
